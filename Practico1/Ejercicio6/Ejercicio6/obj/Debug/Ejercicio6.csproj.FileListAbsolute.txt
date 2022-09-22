@@ -1,0 +1,16 @@
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\thela\OneDrive\Escritorio\Practico1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
