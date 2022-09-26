@@ -1,8 +1,0 @@
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.exe.config
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.exe
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.pdb
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.csproj.AssemblyReference.cache
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.csproj.SuggestedBindingRedirects.cache
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.csproj.CoreCompileInputs.cache
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.exe
-C:\Users\rodri\OneDrive\Escritorio\Practico1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.pdb
